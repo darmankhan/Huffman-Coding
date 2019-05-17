@@ -1,6 +1,6 @@
-CSC172
-ReadMe Project 2
+This program uses Huffman Coding methods to compress and decompress files and was a project in the CSC172 course at the University of Rochester.
 
+Project 2
 Collaborator 1: Darman Khan 
 ID: 30873087
 Email: dkhan2@u.rochester.edu
